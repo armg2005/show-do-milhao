@@ -184,7 +184,7 @@ async function main() {
   }
   
   // Se o loop terminar, o jogador completou todas as rodadas
-  console.log(`\n🏆 PARABÉNS, ${nome}! Você completou todas as 5 rodadas e ganhou o prêmio máximo de R$ ${acumulado}!`);
+  console.log(`\n PARABÉNS, ${nome}! Você completou todas as 5 rodadas e ganhou o prêmio máximo de R$ ${acumulado}!`);
   rl.close();
 }
 
